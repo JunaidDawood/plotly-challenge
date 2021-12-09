@@ -2,7 +2,7 @@
 
 ## Deployment
 
-
+https://junaiddawood.github.io/plotly-challenge/
 
 ## Screenshot of the heroku app
 
